@@ -1,2 +1,2 @@
 print("halodunia")
-halo("test")
+print("test")
